@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-core
+langchain-groq
+langchain-community
+psycopg2-binary
+langgraph-checkpoint-postgres
+tavily-python
+python-dotenv
