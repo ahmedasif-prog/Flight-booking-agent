@@ -7,3 +7,5 @@ psycopg2-binary
 langgraph-checkpoint-postgres
 tavily-python
 python-dotenv
+langgraph-checkpoint-postgres
+psycopg[binary]
